@@ -1,0 +1,103 @@
+[
+    {
+      "id": "1001",
+      "question": "How can I reset my password?",
+      "answer": "1. Go to https://portal.example.com/reset\n2. Enter your corporate email address\n3. Open the link sent to your inbox and follow the steps to set a new password."
+    },
+    {
+      "id": "1002",
+      "question": "Why can’t I send or receive email in Outlook?",
+      "answer": "1. Check that you are connected to the internet.\n2. Verify your Outlook username and password are correct.\n3. If it still fails, visit https://status.example.com to see if there’s a server outage."
+    },
+    {
+      "id": "1003",
+      "question": "My VPN won’t connect—what should I do?",
+      "answer": "1. Restart your VPN client application.\n2. Confirm you have network access (try loading a website).\n3. Re-enter your VPN credentials. If it still fails, contact network support."
+    },
+    {
+      "id": "1004",
+      "question": "The office printer is not printing. How do I fix it?",
+      "answer": "1. Ensure the printer is powered on and connected to the network.\n2. Check there is enough paper and toner in the trays.\n3. Restart the printer. If the error persists, report the printer’s serial number to IT."
+    },
+    {
+      "id": "1005",
+      "question": "I can’t join the company Wi‑Fi. Any tips?",
+      "answer": "1. Make sure Wi‑Fi is turned on in your device settings.\n2. Select the SSID “CorpNet” and enter your network credentials.\n3. If asked for a certificate, install the corporate CA cert from https://intranet.example.com/certs."
+    },
+    {
+      "id": "1006",
+      "question": "How do I request installation of new software?",
+      "answer": "1. Open the Software Portal at https://software.example.com.\n2. Search for the application you need and click “Request Install.”\n3. Your request will be reviewed by IT; you’ll receive an email when it’s approved."
+    },
+    {
+      "id": "1007",
+      "question": "My computer is running very slowly. What can I do?",
+      "answer": "1. Check Task Manager for any high‑CPU or high‑memory processes and close unneeded apps.\n2. Ensure your disk isn’t full—clear out large temporary files.\n3. Reboot and run a full antivirus scan."
+    },
+    {
+      "id": "1008",
+      "question": "I’ve forgotten my laptop’s network drive mapping. How to remap?",
+      "answer": "1. Open File Explorer and right‑click “This PC” → “Map network drive.”\n2. Enter the drive letter and folder path (e.g. \\\\fileserver\\shared).\n3. Check “Reconnect at sign‑in” then click Finish. Contact IT if you don’t have permissions."
+    },
+    {
+      "id": "1009",
+      "question": "How do I unlock my user account after too many login attempts?",
+      "answer": "1. Wait 15 minutes for the automatic unlock.\n2. If still locked, visit https://portal.example.com/unlock and follow the self‑service steps.\n3. Contact the help desk if you’re unable to unlock online."
+    },
+    {
+      "id": "1010",
+      "question": "What do I do if my mouse or keyboard stops responding?",
+      "answer": "1. Unplug and re‑plug the USB device (or replace batteries for wireless).\n2. Try a different USB port.\n3. Reboot your computer. If the problem persists, request a replacement via the Hardware Portal."
+    },
+    {
+      "id": "1011",
+      "question": "How do I install a network printer on my workstation?",
+      "answer": "1. Open the Start menu and search for “Printers & scanners.”\n2. Click “Add a printer or scanner,” then select “The printer that I want isn’t listed.”\n3. Choose “Select a shared printer by name,” enter \\\\printserver\\printername, and click Next.\n4. Follow the on‑screen prompts to install drivers. Contact IT if you need driver files."
+    },
+    {
+      "id": "1012",
+      "question": "My corporate email password has expired—how can I change it?",
+      "answer": "1. Go to https://portal.example.com/password/change\n2. Log in with your current credentials (even if they’re expired).\n3. Enter and confirm your new password following the complexity rules displayed.\n4. Wait 5 minutes for replication, then log into Outlook or webmail with the new password."
+    },
+    {
+      "id": "1013",
+      "question": "I receive a certificate error when accessing the intranet. What should I do?",
+      "answer": "1. Ensure your device’s date and time are correct.\n2. Download and install the corporate CA certificate from https://intranet.example.com/ca-cert\n3. Restart your browser and try again.\n4. If the error persists, clear your browser cache or contact IT."
+    },
+    {
+      "id": "1014",
+      "question": "How do I set up multi‑factor authentication (MFA) for my account?",
+      "answer": "1. Visit https://portal.example.com/mfa-setup and sign in.\n2. Choose your preferred method (Authenticator app, SMS, or hardware token).\n3. Follow the on‑screen instructions to scan the QR code or register your phone.\n4. Test by signing out and back in—enter the code when prompted. Contact IT if you encounter issues."
+    },
+    {
+      "id": "1015",
+      "question": "I accidentally deleted an important file—how can I recover it?",
+      "answer": "1. Open the Recycle Bin on your desktop and look for the file.\n2. Right‑click the file and select “Restore.”\n3. If it’s not there, go to https://portal.example.com/file-recovery and submit a recovery request.\n4. IT will notify you via email when the file has been restored."
+    },
+    {
+      "id": "1016",
+      "question": "How do I update my profile information in the employee portal?",
+      "answer": "1. Go to https://portal.example.com/profile\n2. Log in using your corporate credentials.\n3. Click 'Edit Profile' and update your personal or contact information.\n4. Click 'Save Changes' to apply updates. HR will be notified if required."
+    },
+    {
+      "id": "1017",
+      "question": "Why am I seeing a 'License expired' message in Microsoft Office?",
+      "answer": "1. Ensure you are signed in with your corporate Microsoft account.\n2. Open any Office app and click File → Account → Sign In.\n3. If already signed in, click 'Update License' or run Office Repair from Control Panel.\n4. Contact IT if the issue continues."
+    },
+    {
+      "id": "1018",
+      "question": "How do I access my work email from my mobile device?",
+      "answer": "1. Download the Microsoft Outlook app from the App Store or Google Play.\n2. Open the app and tap 'Add Account'.\n3. Enter your work email address and password.\n4. If prompted, accept the security settings and allow device management."
+    },
+    {
+      "id": "1019",
+      "question": "What should I do if my account is flagged for suspicious activity?",
+      "answer": "1. Immediately change your password at https://portal.example.com/password/change\n2. Review recent login activity in your security settings.\n3. Report the alert to IT Security via https://security.example.com/report\n4. Run a virus and malware scan on your device."
+    },
+    {
+      "id": "1020",
+      "question": "How can I share a large file with a colleague securely?",
+      "answer": "1. Upload the file to OneDrive or SharePoint.\n2. Right-click the file and choose 'Share.'\n3. Enter your colleague’s email address and set appropriate permissions (View or Edit).\n4. Click 'Send.' Avoid sending large files over email directly."
+    }
+  ]
+  
